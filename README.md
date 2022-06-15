@@ -2,6 +2,6 @@
 
 This repo is for 
 
-'''AWS'''
+```AWS```
 
-i am building an 'aws' infacstructure project using 'terraform'
+i am building an `aws` infacstructure project using `terraform`
